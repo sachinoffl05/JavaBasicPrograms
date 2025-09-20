@@ -20,7 +20,8 @@ public class NumberGuessingGame {
                 System.out.println("Too high! Try again.");
             } else {
                 System.out.println("🎉 Correct! You guessed the number.");
-            }
+            }git push
+
         }
         sc.close();
     }
